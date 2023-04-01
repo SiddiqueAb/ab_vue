@@ -1,7 +1,8 @@
 <template>
-  <div class="row container">
+  <div class="container">
+    <div class="row">
     <div class="col-md-4">
-      <div class="card" style="width: 18rem">
+      <div class="card" >
         <img src="@/assets/images/home.png" class="card-img-top" alt="..." />
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
@@ -14,7 +15,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card" style="width: 18rem">
+      <div class="card" >
         <img src="@/assets/images/home.png" class="card-img-top" alt="..." />
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
@@ -27,7 +28,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card" style="width: 18rem">
+      <div class="card" >
         <img src="@/assets/images/home2.png" class="card-img-top" alt="..." />
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
@@ -40,4 +41,6 @@
       </div>
     </div>
   </div>
+  </div>
+  
 </template>

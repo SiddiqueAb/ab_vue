@@ -10,7 +10,8 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.4",
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",

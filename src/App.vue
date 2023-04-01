@@ -5,7 +5,7 @@ import Home from "./components/Home.vue";
 import Header from "./components/Header.vue";
 import Carousel from "./components/homepage/Carousel.vue";
 import Footer from "./components/Footer.vue";
-
+// import Education from "./components/Education.vue";
 </script>
 
 <template>
@@ -14,12 +14,9 @@ import Footer from "./components/Footer.vue";
   <Header></Header>
   
   <router-view>
-    <Home></Home>
-  </router-view>
-  <main>
-    <!-- <Carousel ></Carousel> -->
    
-  </main>
+  </router-view>
+ 
   <Footer></Footer>
 </template>
 

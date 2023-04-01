@@ -1,5 +1,5 @@
 <script>
-import CardItem from '../CardItem.vue';
+
 </script>
 <template>
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -178,7 +178,7 @@ import CardItem from '../CardItem.vue';
         <!-- /END THE FEATURETTES -->
 
     </div>
-    <CardItem></CardItem>
+
 </template>
 
 <style>

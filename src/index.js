@@ -2,6 +2,8 @@ import { createWebHistory, createRouter } from 'vue-router'
 import Carousel from "./components/homepage/Carousel.vue";
 import Education from "./components/Education.vue";
 import Home from "./components/Home.vue";
+import Faq from "./components/Faq.vue";
+import Pricing from "./components/Pricing.vue";
 const routes = [
     {
         path: '/',
@@ -17,13 +19,13 @@ const routes = [
     {
         path: '/faq',
         name: 'faq',
-        component: Carousel
+        component: Faq
     }
     ,
     {
         path: '/pricing',
         name: 'pricing',
-        component: Carousel
+        component: Pricing
     }
     ,
     {

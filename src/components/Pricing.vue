@@ -20,7 +20,7 @@ export default {
                     </div>
                     <div class="card-body">
 
-                        <button @click="count++">
+                        <button @mouseover="count++">
                             Count is: {{ count }}
                         </button>
                     </div>

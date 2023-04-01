@@ -14,7 +14,7 @@
 
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><router-link to="/" class="nav-link active">Home</router-link></li>
+        <li class="nav-item"><router-link to="/" class="nav-link">Home</router-link></li>
         <li class="nav-item"> <router-link to="/education" class="nav-link">Education</router-link></li>
         <li class="nav-item"><router-link to="/pricing" class="nav-link">Pricing</router-link></li>
         <li class="nav-item"><router-link to="/faq" class="nav-link">FAQs</router-link></li>

@@ -1,3 +1,6 @@
+<script>
+import CardItem from '../CardItem.vue';
+</script>
 <template>
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -175,6 +178,7 @@
         <!-- /END THE FEATURETTES -->
 
     </div>
+    <CardItem></CardItem>
 </template>
 
 <style>
@@ -190,4 +194,5 @@
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
     }
-}</style>
+}
+</style>

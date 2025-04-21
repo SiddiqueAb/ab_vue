@@ -19,6 +19,7 @@
         <li class="nav-item"><router-link to="/pricing" class="nav-link">Pricing</router-link></li>
         <li class="nav-item"><router-link to="/faq" class="nav-link">FAQs</router-link></li>
         <li class="nav-item"><router-link to="/about" class="nav-link">About</router-link></li>
+        <li class="nav-item"><router-link to="/login" class="nav-link">Login</router-link></li>
       </ul>
     </header>
   </div>
